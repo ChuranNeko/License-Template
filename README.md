@@ -40,14 +40,18 @@
 
 1. 选择适合您项目的许可证
 2. 复制对应的 LICENSE 文件内容到您的项目根目录
-3. 将 `<year>` 替换为当前年份
-4. 将 `<your-name>` 替换为您的姓名或组织名称
+
+**软件许可证（MIT、Apache、BSD 等）：**
+将 `<year>` 替换为当前年份，`<your-name>` 替换为您的姓名或组织名称
 
 例如，使用 MIT 许可证时，将文件开头改为：
 
 ```
 Copyright (c) 2026 Your Name
 ```
+
+**Creative Commons 许可证：**
+在作品中添加版权声明，格式为：© <year> <your-name>
 
 ## 许可
 
