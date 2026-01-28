@@ -8,9 +8,9 @@
 
 ## 仓库简介
 
-这是一个开源许可证模板集合，包含常用的开源协议文本，方便在项目中直接使用或作为参考。
+这是一个开源许可证和创意共享许可证模板集合，包含常用的开源协议和 CC 许可证文本，方便在项目中直接使用或作为参考。
 
-本项目从 [GitHub License API](https://api.github.com/licenses) 获取标准的许可证文本，并已预先添加好版权声明的占位符，您只需替换 `<year>` 和 `<your-name>` 即可使用。
+本项目从 [GitHub License API](https://api.github.com/licenses) 和 [Creative Commons](https://creativecommons.org/) 获取标准的许可证文本，并已预先添加好版权声明的占位符，您只需替换 `<year>` 和 `<your-name>` 即可使用。
 
 ## 许可证列表
 
@@ -27,6 +27,12 @@
 | [GPL-2.0](GPL-2.0-LICENSE) | Copyleft | GNU通用公共许可证v2 |
 | [GPL-3.0](GPL-3.0-LICENSE) | Copyleft | GNU通用公共许可证v3 |
 | [AGPL-3.0](AGPL-3.0-LICENSE) | Copyleft | GNU Affero通用公共许可证v3 |
+| [CC BY 4.0](CC-BY-4.0-LICENSE) | 创意共享 | 署络共享，需署名 |
+| [CC BY-SA 4.0](CC-BY-SA-4.0-LICENSE) | 创意共享 | 网络共享，需署名且以相同方式共享 |
+| [CC BY-ND 4.0](CC-BY-ND-4.0-LICENSE) | 创意共享 | 网络共享，需署名，禁止修改 |
+| [CC BY-NC 4.0](CC-BY-NC-4.0-LICENSE) | 创意共享 | 非商业使用，需署名 |
+| [CC BY-NC-SA 4.0](CC-BY-NC-SA-4.0-LICENSE) | 创意共享 | 非商业，需署名且以相同方式共享 |
+| [CC BY-NC-ND 4.0](CC-BY-NC-ND-4.0-LICENSE) | 创意共享 | 非商业，需署名，禁止修改 |
 | [CC0-1.0](CC0-1.0-LICENSE) | 公共领域 | 创意共享零公共领域声明 |
 | [Unlicense](Unlicense-LICENSE) | 公共领域 | 无许可证声明 |
 
