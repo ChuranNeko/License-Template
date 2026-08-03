@@ -56,4 +56,4 @@ Copyright (c) 2026 Your Name
 ## 许可
 
 本项目采用 [MIT](MIT-LICENSE) 许可证，您可以自由使用、修改和分发这些模板。
-如有任何问题，欢迎提交 [issue](https://github.com/ChuranNeko/License-Template/issues)。
+如有任何问题，欢迎提交 [issue](https://github.com/CoreRing/License-Template/issues)。
